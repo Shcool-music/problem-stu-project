@@ -1,0 +1,4 @@
+rootProject.name = 'problem-stu-project'
+include 'a-stu-design-pattern'
+include 'a-stu-thread'
+
